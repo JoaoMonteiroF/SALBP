@@ -1,0 +1,1 @@
+stepind = stepind - (stepIndInicial - stepIndFinal)/maxit;
